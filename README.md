@@ -6,5 +6,3 @@
 - 💬 Ask me about AWX and Systems Automation.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stefanbrundige/)
 - ⚡ Fun fact: As a kid, I won the Oreo Stacking Contest at my local grocery store.
--->
-
