@@ -1,4 +1,4 @@
-### Hi, I'm Stefan 👋
+### Hi, I'm Stefan 👋 I automate enterprise systems.
 
 
 - 🔭 I’m currently working on an Enterprise PKI certbot.
