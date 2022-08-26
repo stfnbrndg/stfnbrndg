@@ -1,8 +1,8 @@
-### Hi, I'm Stefan 👋 I automate enterprise systems.
+### Hi, I'm Stefan 👋 I automate and secure systems big and small.
 
 
-- 🔭 I’m currently working on an Enterprise PKI certbot.
+- 🔭 I’m currently working on an Enterprise PKI certificate bot.
 - 🌱 I’m currently learning about the Google Maps API.
-- 💬 Ask me about AWX/Ansible and Systems Automation.
+- 💬 Ask me about Cybersecurity, AWX/Ansible, and Systems Automation.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stefanbrundige/)
-- ⚡ Fun fact: As a kid, I won the Oreo Stacking Contest at my local grocery store.
+- ⚡ Fun fact: I once won an official Nabisco Oreo Stacking Contest.
